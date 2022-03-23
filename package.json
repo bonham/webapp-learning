@@ -1,0 +1,8 @@
+{
+  "name": "webapp-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bonham/webapp-learning.git",
+  "author": "Art Furrer <artfurrer@elfu.de>",
+  "license": "MIT"
+}
