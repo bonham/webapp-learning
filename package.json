@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:bonham/webapp-learning.git",
   "author": "Art Furrer <artfurrer@elfu.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
 }
